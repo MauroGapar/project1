@@ -1,1 +1,1 @@
-# project1
+Este projeto é um **sistema de gestão para uma joalharia**. Ele permite controlar clientes, funcionários, joias, pedidos e pagamentos. O sistema foi desenvolvido usando Java e organiza as funcionalidades por meio da arquitetura **MVC** (Model-View-Controller).
